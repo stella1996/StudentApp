@@ -19,7 +19,7 @@ h2 {
 margin-top:165px;
 margin-left:120px;
 }
-form{
+form{ 
 margin-top:165px;
 margin-bottom:130px;
 margin-left:425px;

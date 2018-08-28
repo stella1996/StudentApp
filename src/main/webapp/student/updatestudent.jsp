@@ -18,7 +18,7 @@
 h2 {
 margin-top:165px;
 margin-left:120px;
-}
+} 
 form{
 margin-top:165px;
 margin-bottom:130px;

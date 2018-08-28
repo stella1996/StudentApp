@@ -17,7 +17,7 @@ public class Student {
 	private int age;
 	public int getId() {
 		return id;
-	}
+	} 
 	public void setId(int id) {
 		this.id = id;
 	}

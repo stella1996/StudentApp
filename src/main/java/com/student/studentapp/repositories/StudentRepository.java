@@ -20,4 +20,4 @@ public interface  StudentRepository extends JpaRepository<Student,Integer>{
 	@Query("UPDATE Student b SET b.age = ?2 WHERE b.id =?1")
 	public int update( Integer id,Integer age);
 
-}
+} 

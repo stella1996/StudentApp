@@ -11,7 +11,7 @@ import com.student.studentapp.services.StudentService;
 @Controller
 @RequestMapping("/student")
 public class StudentController {
-	
+	 
 	@Autowired
 	private StudentService studentService;
 	
